@@ -3,7 +3,7 @@ To read the chapters download [Anaconda Navigator](https://www.anaconda.com) and
 At the end of each chapter file you will come across a home exercise. Please do not push any commits for the exercises as they are to be solved by you. Solutions to the exercise will be available during the next chapter.
 
 Quick Links:
-- [Chapter 1](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%204.ipynb): Introduction to Python
+- [Chapter 1](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%201.ipynb): Introduction to Python
 - [Chapter 2]()
 - [Chapter 3]()
 - [Chapter 4]()
