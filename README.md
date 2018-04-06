@@ -6,7 +6,7 @@ Quick Links:
 - [Chapter 1](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%201.ipynb): Introduction to Python
 - [Chapter 2]()
 - [Chapter 3]()
-- [Chapter 4]()
+- [Chapter 4](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%204.ipynb): Python Objects
 - [Chapter 5]()
 - [Chapter 6]()
 - [Chapter 7]()
