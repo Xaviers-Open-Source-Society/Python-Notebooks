@@ -7,7 +7,7 @@ Quick Links:
 - [Chapter 2]()
 - [Chapter 3]()
 - [Chapter 4](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%204.ipynb): Python Objects
-- [Chapter 5]()
+- [Chapter 5](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%205.ipynb): Numberic Types
 - [Chapter 6]()
 - [Chapter 7]()
 - [Chapter 8]()
