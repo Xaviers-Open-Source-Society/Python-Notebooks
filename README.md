@@ -8,7 +8,7 @@ Quick Links:
 - [Chapter 3]()
 - [Chapter 4](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%204.ipynb): Python Objects
 - [Chapter 5](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%205.ipynb): Numberic Types
-- [Chapter 6]()
+- [Chapter 6](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%206.ipynb): Dynamic Typing
 - [Chapter 7]()
 - [Chapter 8]()
 
