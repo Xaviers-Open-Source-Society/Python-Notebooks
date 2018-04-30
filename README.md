@@ -9,7 +9,7 @@ Quick Links:
 - [Chapter 4](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%204.ipynb): Python Objects
 - [Chapter 5](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%205.ipynb): Numberic Types
 - [Chapter 6](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%206.ipynb): Dynamic Typing
-- [Chapter 7]()
+- [Chapter 7](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/Chapter%207.ipynb): Strings
 - [Chapter 8 & 9](https://github.com/Xaviers-Open-Source-Society/Python-Notebooks/blob/master/chapter%208%20and%209.ipynb): List, Tuples, Sets and Dictionaries
 
 
